@@ -61,4 +61,4 @@ jobs:
           app-name: 'Div007App'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_71FF93AD349D4D1DA4303AC649DA8C36 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B63B3A45B9924BC7A80537358F11D0D9 }}
